@@ -1,0 +1,18 @@
+Link para dowload do GitHub: https://git-scm.com/downloads
+
+O GitHub é um repositório de dados compatilhados que pode ser público ou privado. 
+
+Ele serve para versionar códigos, que significa criar uma nova versão do código toda vez que existir uma mudança significativa nele.
+
+Comandos Básicos do Git:
+
+git status - verificar últimas informações 
+git commit -m - confirma alteração através de uma mensagem de texto
+git push - sincroniza repositório local com o repositório no GITHUB
+git pull - sicroniza o repositório no GITHUB com o repositório local
+git init - criar um novo repositório
+git clone - clonar a pasta do repositório do GIT dentro do sistema operacional
+
+O Git Bash é um terminal estendido para otimizar o uso do Git
+
+
